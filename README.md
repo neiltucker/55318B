@@ -9,7 +9,7 @@
 
 ## Course Overview
 
-55318B is the updated version of 55318A. This three-day course teaches experienced IT professionals how to build reliable, reusable, and production-ready automation with modern PowerShell. The course updates the previous Windows PowerShell-focused curriculum for current corporate environments that use PowerShell 7.x, Windows Server 2025, SQL Server 2025, REST APIs, Git-based workflows, and secure automation. Students create advanced functions, orchestrate complex workflows, manage errors securely, and integrate AI-assisted analysis tools.
+This three-day course teaches experienced IT professionals how to build reliable, reusable, and production-ready automation with modern PowerShell. The course updates the previous Windows PowerShell-focused curriculum for current corporate environments that use PowerShell 7.x, Windows Server 2025, SQL Server 2025, REST APIs, Git-based workflows, and secure automation. Students create advanced functions, orchestrate complex workflows, manage errors securely, and integrate AI-assisted analysis tools.
 
 > **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore PowerShell 7 scripting patterns, examine REST API payload handling, investigate secure credential management techniques, and all other course topics.
 
